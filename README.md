@@ -1,6 +1,7 @@
 # What is raweeg?
 
-This program will output the raw data from the Mindwave Mobile
+This program will output the raw data from the Mindwave Mobile.
+See line 39 in sniff.py to access integer datapoint, "rawdata".
 
 # Dependencies and Notes:
   - python 2.7.11
